@@ -1,0 +1,16 @@
+/* mobile device */
+@media only screen and (max-width:668px){
+    .container{
+        width: 100%;
+    }
+    .nav{
+        flex-wrap: wrap;
+    }
+    .banner{
+        width: 100%;
+    }
+    .btn{
+        font-size: 13px;
+        padding: 10px;
+    }
+}
